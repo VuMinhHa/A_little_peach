@@ -1,5 +1,7 @@
 # Website thời trang A_little_peach 
 
-# Back End: RestfullAPI, Mysql,..  
+Dự án cá nhân
 
-# Front End: AngularJs
+Back End: RestfullAPI, Mysql,..  
+
+Front End: AngularJs
